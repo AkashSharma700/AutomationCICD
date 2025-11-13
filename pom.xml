@@ -5,10 +5,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>Automation</groupId>
-	<artifactId>SeleniumFrameworkDesign</artifactId>
+	<artifactId>AutomationCICD</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<name>SeleniumFrameworkDesign</name>
+	<name>AutomationCICD</name>
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com</url>
 

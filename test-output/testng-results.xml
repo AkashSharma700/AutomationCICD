@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-13T17:27:46 IST" name="Submit Order Suite" finished-at="2025-11-13T17:28:17 IST" duration-ms="30893">
+    <groups>
+    </groups>
+    <test started-at="2025-11-13T17:27:46 IST" name="Submit Order" finished-at="2025-11-13T17:28:17 IST" duration-ms="30893">
+      <class name="TestCases.SubmitOrder">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:TestCases.SubmitOrder@7dfb0c0f]" started-at="2025-11-13T17:27:46 IST" name="initializeDriver" finished-at="2025-11-13T17:28:09 IST" duration-ms="22807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="submitOrder()[pri:0, instance:TestCases.SubmitOrder@7dfb0c0f]" started-at="2025-11-13T17:28:09 IST" name="submitOrder" finished-at="2025-11-13T17:28:16 IST" duration-ms="7892" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitOrder -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:TestCases.SubmitOrder@7dfb0c0f]" started-at="2025-11-13T17:28:16 IST" name="quitDriver" finished-at="2025-11-13T17:28:17 IST" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- TestCases.SubmitOrder -->
+    </test> <!-- Submit Order -->
+  </suite> <!-- Submit Order Suite -->
+</testng-results>

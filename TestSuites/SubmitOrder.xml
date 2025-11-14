@@ -12,4 +12,5 @@
 			<class name="TestCases.SubmitOrder"></class>
 		</classes>
 	</test>
+	
 </suite>
